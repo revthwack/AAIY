@@ -10,7 +10,7 @@ using System.Windows;
 [assembly: AssemblyTitle("AAIY")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("Ooruk Studios")]
 [assembly: AssemblyProduct("AAIY")]
 [assembly: AssemblyCopyright("Copyright ©  2018")]
 [assembly: AssemblyTrademark("")]

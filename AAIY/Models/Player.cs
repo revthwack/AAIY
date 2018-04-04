@@ -3,6 +3,10 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Newtonsoft.Json;
+using System.Windows;
+using System.IO;
+using System.Runtime.Serialization.Formatters.Binary;
 
 namespace AAIY.Models
 {
@@ -22,6 +26,7 @@ namespace AAIY.Models
         public int hpMax { get; set; }
         public int exp { get; set; }
         public int statPoints { get; set; }
+        public string name { get; set; }
 
 
         public Player()
